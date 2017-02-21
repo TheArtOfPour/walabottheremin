@@ -1,0 +1,16 @@
+Version 0.2.1
+-------------
+- Fixed max volume causing clipping.
+- Fixed saving a recording takes forever.
+- Various UI improvements (colors, note labels, scales).
+
+
+Version 0.2.0
+-------------
+- Added ability to record WAVE files.
+- Added improved discrete note mode.
+
+
+Version 0.1.0
+-------------
+- Initial release.
